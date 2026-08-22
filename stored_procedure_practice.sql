@@ -1,4 +1,6 @@
+--comment 1
 CREATE OR REPLACE DATABASE STOREDPROC_DB;
+--comment 2
 CREATE SCHEMA SF_SCHEMA;
 
 --create a test table call INVENTORY in this schema. We will be using sample data provided by Snowflake to populate this table.
